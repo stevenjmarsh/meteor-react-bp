@@ -1,6 +1,20 @@
-# MusiQ - an online jukebox
+# meteor-react-bp
+This is a simple starting point for a meteor react application, using jest and enzyme for testing. [WORK IN PROGRESS]
 
-[![Build Status](https://semaphoreci.com/api/v1/eat-drink-healthy/musiq/branches/master/shields_badge.svg)](https://semaphoreci.com/eat-drink-healthy/musiq)
+## Sources
+The following resources were referenced when building this app.
+* [The Meteor To Do app, react tutorial](https://www.meteor.com/tutorials/react/creating-an-app)
+* [The Meteor Guide, for react](https://guide.meteor.com/react.html)
+* [The Meteor Guide, for testing (to understand file types and loading)](https://guide.meteor.com/testing.html)
+* [React documentation](https://facebook.github.io/react/)
+* [React Router documentation](https://github.com/ReactTraining/react-router)
+* [Jest documentation and tutorial](http://facebook.github.io/jest/)
+* [Flow documentation](https://flowtype.org/)
+* [Yarn documentation](https://yarnpkg.com/en/)
+* [React Storybook documentation](https://getstorybook.io/)
+* [Enzyme documentation](https://github.com/airbnb/enzyme)
+* [Meteor eslint configuration](https://github.com/eatdrinkhealthy/eslint-meteor)
+* [Glamor documentation, for style - NOTE: may be removed](https://github.com/threepointone/glamor)
 
 ## Notes
 * ...
