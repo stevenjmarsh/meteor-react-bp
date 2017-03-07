@@ -1,5 +1,5 @@
 # meteor-react-bp
-This is a simple starting point for a meteor react application, using jest and enzyme for testing.
+This is a simple starting point for a meteor react application, using jest and enzyme for testing. [WORK IN PROGRESS]
 
 ## Sources
 The following resources were referenced when building this app.
@@ -14,6 +14,7 @@ The following resources were referenced when building this app.
 * [React Storybook documentation](https://getstorybook.io/)
 * [Enzyme documentation](https://github.com/airbnb/enzyme)
 * [Meteor eslint configuration](https://github.com/eatdrinkhealthy/eslint-meteor)
+* [Glamor documentation, for style - NOTE: may be removed](https://github.com/threepointone/glamor)
 
 ## Notes
 * ...
