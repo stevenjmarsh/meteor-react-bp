@@ -1,0 +1,8 @@
+exports[`<Home /> matches render snapshot 1`] = `
+<div
+  className="css-wlbfil">
+  <h1>
+    Home
+  </h1>
+</div>
+`;

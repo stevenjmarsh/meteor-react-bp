@@ -1,0 +1,7 @@
+node_modules/
+npm-debug.log
+settings.json
+
+# Ignore libdefs downloaded by flow-typed package, mv or cp libdefs needed
+# from flow-typed/ to .types/
+flow-typed/
