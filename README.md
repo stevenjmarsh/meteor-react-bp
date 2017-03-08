@@ -1,5 +1,5 @@
-# meteor-react-bp
-This is a simple starting point for a meteor react application, using jest and enzyme for testing. [WORK IN PROGRESS]
+# meteor-react-bp  [WORK IN PROGRESS]
+This is a simple starting point for a meteor react application, using jest and enzyme for testing. 
 
 ## Sources
 The following resources were referenced when building this app.
